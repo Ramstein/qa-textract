@@ -1,0 +1,297 @@
+Questions-Answers
+Long Answer Type and Medium Answer Type Questions
+Qve
+avei:l
+1.1.
+What is steel structure ? What are the requirements
+that govern the structural design ?
+Answer
+A
+Steel Structure : A steel structure is an assemblage of a group of
+and members to transfer (elements) them safely expected to the to ground. sustain Depending their share on of the applied orientation forces
+of the member in the structure and its structural use, the member is
+subjected to forces, either axial, bending or torsion, or combination of
+forces.
+B.
+Requirements : Following are the requirements that govern the
+structural design
+1.
+It should have adequate strength.
+2.
+It should have adequate stability and rigidity.
+3.
+It should be durable.
+4.
+It should not interfere with the functional requirement.
+5.
+It should be economical.
+6.
+It should be readily adaptable to future extension.
+Que 1.2.
+What are the advantages and disadvantages of steel
+used as a structural material ?
+OR
+Write advantages of steel used as a structural material.
+AKTU 2014-15, Marks 05
+Answer
+A Advantages : Following are the advantages of steel used as structural
+material
+1.
+Steel is the ultimate recyclable material.
+2.
+They can be erected at a faster rate.
+1-3 A(CE-Sem-7)
+3.
+Additions and alternations can be made easily to steel structures.
+4.
+Structural steels is tough i.e., it has both strength and ductility
+5.
+Properly maintained steel structure has a long life.
+6.
+Steel being a ductile material does not fail suddenly.
+B. Disadvantages : Following are disadvantages of steel used as a
+structural material
+1.
+It is susceptible to corrosion and buckling
+2.
+Steel members are costly.
+3.
+Maintenance cost is high.
+4. Their shape and size are standard SO worked according to the standard
+shape and size.
+PART-2
+Structural Steel.
+Questions-Answers
+Long Answer Type and Medium Answer Type Questions
+Que 1.3.
+What is structural steel and what are its properties ?
+OR
+Describe some of the mechanical properties of structural steel.
+AKTU 2014-15, Marks 05
+Answer
+Steel : It is probably the most versatile and commonly used structural
+material. The essential elements in steel are metallic iron and the
+element of non-metallic carbon with small quantity of other elements
+such as silicon, chromium and copper.
+Properties : Following are the properties of structural steel
+1.
+Physical Properties :
+i.
+Unit mass of steel, p = 7850 kg/m3.
+ii.
+Modulus of elasticity, E 2.0 X 105 N/mm2
+iii.
+Poisson's ratio, u 0.3.
+iv.
+Modulus of rigidity, G = 0.769 X 105 N/mm2.
+V.
+Coefficient of thermal expansion, a, 12 X 10-6/C.
+2.
+Mechanical Properties :
+Yield stress,
+i.
+ii.
+The tensile or ultimate stress, fu
+jii
+The maximum Designation percentage elongation on a standard gauge length.
+Type of Steel
+UT'S
+(MPa)
+Yield Strongth (MPn)
+Thioknens (mam)
+Minimum
+Peroentago
+Charpy
+$20
+20-40
+$40
+Elongation
+V-notoh
+(Gauge Length
+Impact
+Energy
+Standard
+Fe 410A
+410
+250
+5.665 A 0
+(min)
+240
+structura
+Fe 410B
+230
+410
+23
+250
+240
+Fe 410C
+230
+steel (IS 2062)
+410
+23
+250
+27
+240
+230
+23
+27
+<16
+16-40
+41-63
+Micro-alloyed
+Fe 440B
+440
+300
+290
+280
+Medium/
+Fe 540B
+22
+540
+30
+410
+high-strength
+390
+380
+20
+Fe 490B
+25
+490
+Steel (IS : 8500)
+350
+330
+320
+22
+Fe 590B/570B
+25
+590/570
+450
+430
+420
+30
+20
+Que 1.4.
+Discuss in brief a general chemical composition of steel
+and effect of carbon on steel.
+AKTU 2014-15, Marks 05
+OR
+Give the chemical composition of structural steel and discuss the
+amount of carbon in it.
+AKTU 2017-18, Marks 05
+Answer
+A. Chemical Composition of Steel : The chemical compositions of some
+typical steels, specified by the Bureau of Indian Standards are listed in
+Table 1.4.1.
+Table 1.4.1.
+Types of
+Designation
+c
+Mn
+S
+P
+Si
+Cathon
+Steel
+(max)
+(max)
+(maur)
+(max)
+(max
+Equivalent
+Standard
+Fe 410 A
+0.23
+1.5
+0.050
+0.050
+0.4
+0.42
+structural steel
+Fe 410 B
+0.22
+1.5
+0.045
+0.045
+0.4
+0.41
+(IS : 2062)
+Fe 410 C
+0.20
+1.5
+0.040
+0.040
+0.4
+0.39
+Micro-alloyed
+Fe 440
+0.20
+1.3
+0.050
+0.050
+0.45
+0.40
+medium/ high
+Fe 540
+0.20
+1.6
+0.045
+0.045
+0.45
+0.44
+strength
+steel (IS : 8500)
+Fe 590
+0.22
+1.8
+0.045
+0.045
+0.45
+0.48
+B.
+Amount of Carbon : Iron-carbon alloys containing up to 2 percent
+carbon are called steel while those having more than 2 percent are
+called cast steel.
+C.
+Effect of Carbon on Steel: Following are the effect of carbon on steel
+Design of Structure III
+1-5 A (CE-Sem-7
+1.
+With increase in carbon, the tensile strength and hardness of stee
+increases but the ductility and toughness fall. Also, more carbon will
+cause steel to be more brittle and will adversely affect its weldability
+2.
+If the carbon content is reduced, the steel will be softer and more ductile
+but also weaker.
+PART-3
+Stress Strain Curve for Mild Steel.
+Questions-Answers
+Long Answer Type and Medium Answer Type Questions
+Que 1.5.
+Draw a stress strain curve for mild steel and discuss
+salient points on it.
+AKTU 2018-19, Marks 10
+OR
+Discuss stress strain behaviour of mild steel.
+AKTU 2014-15, Marks 05
+Answer
+Stress-strain Curve Curve OABC'CDEF represents the stress strain
+tensile curve, when load. a mild steel specimen is subjected to gradual increasing
+E
+C'
+F
+B C D
+A
+O
+Strain, E
+Fig. 1.5.1 Engineering stress-strain stresss curve
+1. OAB:
+Segment of Curve : Following are the segment of curve
+:
+i.
+ii.
+The Represent a straight line curve.
+it obeys Hooke's law. produced is proportional to the stress producing it i.e.,
+straight
+line
+2.
+Point A : Represents the limit of proportionality.

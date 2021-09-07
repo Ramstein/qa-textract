@@ -1,0 +1,165 @@
+i.
+Yield stress,
+ii.
+The tensile or ultimate stress, fu
+ii
+Type of Steel
+The maximum Designation percentage elongation on a standard gauge length.
+UT'S
+(MPa)
+Yield Strongth (MPn)
+Thioknens (mam)
+Minimum
+Peroentago
+Charpy
+$20
+20-40
+$40
+Elongation
+V-notoh
+(Gauge Length
+Impact
+Energy
+Standard
+Fe 410A
+410
+250
+5.665 A 0
+Fe 410B
+240
+(min)
+structura
+230
+410
+250
+23
+240
+steel (IS 2062)
+Fe 410C
+230
+410
+23
+250
+27
+240
+230
+23
+27
+<16
+16-40
+Micro-alloyed
+Fe 440B
+41-63
+440
+300
+290
+280
+Medium/
+Fe 540B
+22
+540
+30
+410
+high-strength
+390
+380
+20
+Fe 490B
+25
+Steel (IS : 8500)
+490
+350
+330
+320
+22
+Fe 590B/570B
+25
+590/570
+450
+430
+420
+30
+20
+Que 1.4.
+Discuss in brief a general chemical composition of steel
+and effect of carbon on steel.
+AKTU 2014-15, Marks 05
+OR
+Give the chemical composition of structural steel and discuss the
+amount of carbon in it.
+AKTU 2017-18, Marks 05
+Answer
+A. Chemical Composition of Steel : The chemical compositions of some
+typical steels, specified by the Bureau of Indian Standards are listed in
+Table 1.4.1.
+Table 1.4.1.
+Types of
+Designation
+c
+Mn
+S
+P
+Si
+Cathon
+Steel
+(max)
+(max)
+(maur)
+(max)
+(max
+Equivalent
+Standard
+Fe 410 A
+0.23
+1.5
+0.050
+0.050
+0.4
+0.42
+structural steel
+Fe 410 B
+0.22
+1.5
+0.045
+0.045
+0.4
+0.41
+(IS : 2062)
+Fe 410 C
+0.20
+1.5
+0.040
+0.040
+0.4
+0.39
+Micro-alloyed
+Fe 440
+0.20
+1.3
+0.050
+0.050
+0.45
+0.40
+medium/ high
+0.045
+0.45
+0.44
+strength
+Fe 540
+0.20
+1.6
+0.045
+steel (IS : 8500)
+Fe 590
+0.22
+1.8
+0.045
+0.045
+0.45
+0.48
+B.
+Amount of Carbon : Iron-carbon alloys containing up to 2 percent
+carbon are called steel while those having more than 2 percent are
+called cast steel.
+C.
+Effect of Carbon on Steel: Following are the effect of carbon on steel
